@@ -8,8 +8,6 @@ Atualmente, estou focado em desenvolver soluções práticas e inovadoras, apren
 
 ###
 
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="left">
