@@ -2,10 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LopesFelps&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LopesFelps&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência em desenvolvimento back-end, Python, Node.js, bancos de dados MySQL, PHP e outras tecnologias. Também tenho conhecimentos em gestão, marketing e logística, o que me ajuda a ter uma visão mais ampla de projetos.
+
+Atualmente, estou focado em desenvolver soluções práticas e inovadoras, aprendendo novas tecnologias e contribuindo com projetos que impactem positivamente o dia a dia das pessoas e empresas.
 
 ###
 
