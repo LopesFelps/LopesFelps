@@ -15,7 +15,7 @@ Linguagens: Python, PHP, JavaScript (Node.js)
 
 Banco de dados: MySQL
 
-Ferramentas: Git, GitHub, Figma, PowerPoint
+Ferramentas: Git, GitHub, Figma
 
 Metodologias: Agile, Scrum
 
